@@ -23,4 +23,5 @@ Here is a video demonstration of my project:
 
 
 ### Code for the project
-In the 
+In the "Detection Algorithm" folder, all the codes related to this project are given. However, if you try to build this from scratch, it would be difficult as you would want to integrate the program with hardware. Since, I used raspberry-pi 2GB, I had to connect wires to the extensions so that motor-drivers can further assist them in moving the trolley (either forward/left/right)
+
