@@ -3,7 +3,7 @@
 ### Introduction
 The “Autonomous Trolley” is a self-driving wheel cart (trolley) which moves behind a person, keeping a track of that person and detect other objects with a functionality of avoiding them.
 
-## Purpose
+### Purpose
 
 Nowadays, many supermarkets offer convenience for shopping, one of which is a shopping trolley. It is used by customers inside the store to transport goods to the cashier during shopping and designed not to leave the store. One of the first shopping carts was introduced by Sylvan Goldman, owner of Standard Food Market in Oklahoma. He receives many complaints from his customers because they have difficulty in carrying groceries from his shop. Goldman tried to solve this problem and began experimenting with shopping baskets at his shop. He put the basket on a carriage with small wheels to help customers carrying groceries. To facilitate and satisfy his customers, he asked an engineer to design a modern shopping trolley and patented this invention. Since then, the shopping trolley is made en masse. To this day, we find many shapes of shopping trolleys in a modern supermarket. 
 
@@ -16,7 +16,11 @@ python -> ssd mobile net training module -> coco dataset -> open-cv -> tensorflo
 
 
 
-## Video Demonstration 
+### Video Demonstration 
 Here is a video demonstration of my project: 
 
 [![Autonomous Shopping Trolley](https://img.youtube.com/vi/Eg0pur-td_4/0.jpg)](https://www.youtube.com/watch?v=Eg0pur-td_4)
+
+
+### Code for the project
+In the 
