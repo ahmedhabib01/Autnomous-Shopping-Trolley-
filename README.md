@@ -13,5 +13,9 @@ Therefore, the purpose this product serves to the consumers is to lessen the lab
 
 python -> ssd mobile net training module -> coco dataset -> open-cv -> tensorflow -> created envoironment -> label file -> GPIO
 
-# Presentation 
-# Video Demonstration 
+
+
+## Video Demonstration 
+Here is a video demonstration of my project: 
+
+[![Autonomous Shopping Trolley](https://img.youtube.com/vi/Eg0pur-td_4/0.jpg)](https://www.youtube.com/watch?v=Eg0pur-td_4)
