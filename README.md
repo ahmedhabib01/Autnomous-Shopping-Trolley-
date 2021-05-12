@@ -15,7 +15,7 @@ Therefore, the purpose this product serves to the consumers is to lessen the lab
 python -> ssd mobile net training module -> coco dataset -> open-cv -> tensorflow -> created envoironment -> label file -> GPIO
 
 
-![plot](./C:\Users\Ahmed Habib\OneDrive\Desktop)
+![plot](C:\Users\Ahmed Habib\OneDrive\Desktop)
 
 
 ### Video Demonstration 
