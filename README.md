@@ -15,6 +15,9 @@ Therefore, the purpose this product serves to the consumers is to lessen the lab
 python -> ssd mobile net training module -> coco dataset -> open-cv -> tensorflow -> created envoironment -> label file -> GPIO
 
 
+![OD](https://user-images.githubusercontent.com/72246938/117953037-304b2d00-b32f-11eb-9d41-70fda146f89d.png)
+
+
 ### Video Demonstration 
 Here is a video demonstration of my project: 
 
