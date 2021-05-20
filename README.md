@@ -1,5 +1,6 @@
 # Autnomous-Shopping-Trolley
 ![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)
+![Build Passing](https://img.shields.io/badge/build-passing-brightgreen)
 
 ### Introduction
 The “Autonomous Trolley” is a self-driving wheel cart (trolley) which moves behind a person, keeping a track of that person and detect other objects with a functionality of avoiding them.
